@@ -17,14 +17,12 @@ This is a simple React quiz application with multiple-choice questions. Users ca
    git clone https://github.com/yashlohade21/MCQ-Exam-Portal.git
 Install dependencies:
 
-bash
-Copy code
+   ```bash
 cd react-quiz-app
 npm install
 Start the development server:
 
-bash
-Copy code
+   ```bash
 npm start
 The app will be accessible at http://localhost:3000.
 
