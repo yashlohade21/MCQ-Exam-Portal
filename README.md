@@ -14,7 +14,7 @@ This is a simple React quiz application with multiple-choice questions. Users ca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
+   git clone https://github.com/yashlohade21/MCQ-Exam-Portal.git
 Install dependencies:
 
 bash
